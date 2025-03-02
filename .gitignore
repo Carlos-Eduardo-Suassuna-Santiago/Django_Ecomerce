@@ -1,0 +1,60 @@
+# Ignorar arquivos de log
+*.log
+
+# Ignorar diretórios de dependências
+node_modules/
+vendor/
+bin/
+
+# Ignorar arquivos de ambiente
+.venv
+.env
+.env.local
+.env.development
+.env.test
+.env.production
+
+# Ignorar arquivos de configuração local
+*.local
+
+# Ignorar arquivos de sistema
+.DS_Store
+Thumbs.db
+*.log
+*.sqlite
+*.sqlite3
+*.cache
+
+# Ignorar arquivos de IDE
+.idea/
+.vscode/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# Ignorar arquivos de compilação
+build/
+dist/
+*.min.js
+*.min.css
+
+# Ignorar arquivos de cache
+.cache/
+
+# Ignorar arquivos de pacote
+*.zip
+*.tar.gz
+*.rar
+
+# Ignorar arquivos de documentação gerados
+docs/_build/
+
+# Ignorar arquivos de teste
+coverage/
+*.lcov
+
+# Ignorar arquivos de sistema operacional
+*.swp
+*.swo
