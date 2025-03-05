@@ -60,6 +60,6 @@ coverage/
 *.swo
 
 __pycache__/
-*.pyc
-*.pyo
+*.py[cod]
+*.$py.class
 *.pyd
