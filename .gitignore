@@ -58,3 +58,8 @@ coverage/
 # Ignorar arquivos de sistema operacional
 *.swp
 *.swo
+
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
